@@ -1,10 +1,9 @@
-- 👋 Hi, I’m sanskar
-- 👀 I’m interested in python technology
-- 🌱 I’m currently learning computer science in Btech 4th year
-- 💞️ I’m looking to collaborate on build new technology
-- 📫
+Hey there! I'm Sanskar, a Rails developer who enjoys turning complex ideas into simple, elegant code.
 
-<!---
-sanskar7999/sanskar7999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve been working with Rails 7, Action Cable, and Hotwire to build real-time, high-performance fintech applications. I’m also diving into Docker, E2E testing, and exploring AI for developers.
+
+I believe in clean code, strong tests, and continuous improvement.
+
+🧰 My current tools: Ruby, Rails, RSpec, Stimulus, Docker, Redis, PostgreSQL
+
+🌱 Learning: GenAI development + large-scale Rails architecture
