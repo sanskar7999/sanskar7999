@@ -1,9 +1,25 @@
-Hey there! I'm Sanskar, a Rails developer who enjoys turning complex ideas into simple, elegant code.
+# Hi, I'm Sanskar Sahu 👋
 
-I’ve been working with Rails 7, Action Cable, and Hotwire to build real-time, high-performance fintech applications. I’m also diving into Docker, E2E testing, and exploring AI for developers.
+I'm a **Backend Software Developer** with **3+ years of experience**, primarily working with **Ruby on Rails** and building scalable, reliable backend systems.
 
-I believe in clean code, strong tests, and continuous improvement.
+I have hands-on experience with:
 
-🧰 My current tools: Ruby, Rails, RSpec, Stimulus, Docker, Redis, PostgreSQL
+- 💎 Ruby on Rails
+- 🔌 REST APIs & Third-Party Integrations
+- 🐘 PostgreSQL
+- ⚡ Redis & Sidekiq
+- 🐳 Docker
+- ☁️ AWS
+- 🧪 RSpec & Testing
+- 🔄 Background Jobs & Real-Time Features
+- 🔐 Authentication, RBAC & Multi-Tenant Systems
 
-🌱 Learning: GenAI development + large-scale Rails architecture
+I've worked on **SaaS applications, financial API integrations, performance optimization, background processing, and real-time communication systems**.
+
+I enjoy solving backend problems, improving existing systems, and writing clean, maintainable code.
+
+🌱 Currently exploring new technologies and improving my backend and system-design skills.
+
+💼 Open to opportunities as a **Ruby on Rails Developer / Backend Engineer**.
+
+📍 Indore, Madhya Pradesh, India
